@@ -8,3 +8,5 @@ server using the original form action and method.
 Offers events to push activesave form data locally using,
 HTML 5 local storage, append local content onto the form to
 refresh from local cache, and persist form data to the server.
+
+Browsers supported include IE9+, Chrome latest, Safari latest, Firefox latest
